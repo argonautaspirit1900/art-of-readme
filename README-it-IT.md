@@ -142,7 +142,7 @@ find their way to your README before anything else, quality here is your
 public-facing measure of your work.
 
 
-### Brevity
+### BrevitySpotted an error
 
 The lack of a README is a powerful red flag, but even a lengthy README is not
 indicative of there being high quality. The ideal README is as short as it can
@@ -523,7 +523,7 @@ issue](https://github.com/noffle/art-of-readme/issues)!
 
 ## Le pull requests sono le benvenute!
 
-Vuoi segnalare un errore? Something doesn't make sense? Send me a [pull
+Vuoi segnalare un errore? Qualcosa non ha senso? Inviami una [pull
 request](https://github.com/noffle/art-of-readme/pulls)! Please avoid making
 stylistic changes though -- they are unlikely to be accepted. Thanks!
 
