@@ -523,7 +523,7 @@ issue](https://github.com/noffle/art-of-readme/issues)!
 
 ## Le pull requests sono le benvenute!
 
-Spotted an error? Something doesn't make sense? Send me a [pull
+Vuoi segnalare un errore? Something doesn't make sense? Send me a [pull
 request](https://github.com/noffle/art-of-readme/pulls)! Please avoid making
 stylistic changes though -- they are unlikely to be accepted. Thanks!
 
